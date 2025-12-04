@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/00_Superhelden/00_Superhelden.iml" filepath="$PROJECT_DIR$/00_Superhelden/00_Superhelden.iml" />
       <module fileurl="file://$PROJECT_DIR$/00_WerBrauchtDennSowas/00_WerBrauchtDennSowas.iml" filepath="$PROJECT_DIR$/00_WerBrauchtDennSowas/00_WerBrauchtDennSowas.iml" />
       <module fileurl="file://$PROJECT_DIR$/01_TierKlasse/01_TierKlasse.iml" filepath="$PROJECT_DIR$/01_TierKlasse/01_TierKlasse.iml" />
       <module fileurl="file://$PROJECT_DIR$/BLJ-OOP_Aufgaben.iml" filepath="$PROJECT_DIR$/BLJ-OOP_Aufgaben.iml" />
