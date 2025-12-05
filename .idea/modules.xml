@@ -6,7 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/00_WerBrauchtDennSowas/00_WerBrauchtDennSowas.iml" filepath="$PROJECT_DIR$/00_WerBrauchtDennSowas/00_WerBrauchtDennSowas.iml" />
       <module fileurl="file://$PROJECT_DIR$/01_TierKlasse/01_TierKlasse.iml" filepath="$PROJECT_DIR$/01_TierKlasse/01_TierKlasse.iml" />
       <module fileurl="file://$PROJECT_DIR$/02a_Helikopter/02a_Helikopter.iml" filepath="$PROJECT_DIR$/02a_Helikopter/02a_Helikopter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/02b_Helikopter/02b_Helikopter.iml" filepath="$PROJECT_DIR$/02b_Helikopter/02b_Helikopter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02b_HelikopterFactory/02b_HelikopterFactory.iml" filepath="$PROJECT_DIR$/02b_HelikopterFactory/02b_HelikopterFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/BLJ-OOP_Aufgaben.iml" filepath="$PROJECT_DIR$/BLJ-OOP_Aufgaben.iml" />
     </modules>
   </component>

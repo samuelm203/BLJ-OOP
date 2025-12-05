@@ -2,7 +2,6 @@ void main() {
 
     helicopter Helicopter1 = new helicopter(100, 1000);
 
-    Helicopter1.calculateRemainingLoadCapacity();
 }
 
 public class helicopter{
@@ -74,6 +73,5 @@ public class helicopter{
         this.actualWeightLoadKg = 0;
         System.out.println("The weight is: " + this.actualWeightLoadKg + " kg");
     }
-
 
 }
